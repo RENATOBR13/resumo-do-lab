@@ -24,6 +24,16 @@ GOVERNANÇA - A auditoria baseada em nuvem ajuda a sinalizar qualquer recurso qu
 
 GERENCIABILIDADE - Um dos principais benefícios da computação em nuvem são as opções de capacidade de gerenciamento. Há dois tipos de capacidade de gerenciamento para computação em nuvem que você aprenderá nesta série e ambos trazem excelentes benefícios. O gerenciamento da nuvem diz respeito a gerenciar seus recursos de nuvem. Por exemplo :
 * Escalar automaticamente a implantação de recursos com abase na necessidade;
+* Implantar recursos com base em um modelo pré-definido, removendo a necessidade de configuração manual;
+
+  O gerenciamento na nuvem diz respeito à maneira de gerenciar seu ambiente da nuvem e seus recursos. Por exemplo :
+  + Por meio de um portal da Web;
+  + 
+
+
+
+
+
 
 
 
