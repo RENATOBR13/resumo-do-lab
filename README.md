@@ -28,7 +28,9 @@ GERENCIABILIDADE - Um dos principais benefícios da computação em nuvem são a
 
   O gerenciamento na nuvem diz respeito à maneira de gerenciar seu ambiente da nuvem e seus recursos. Por exemplo :
   + Por meio de um portal da Web;
-  + 
+  + Usando uma interface de linha de comando;
+  + Usando APIs;
+  + Usando o PowerShell.
 
 
 
