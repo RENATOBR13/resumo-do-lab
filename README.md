@@ -5,3 +5,4 @@ Benefícios da nuvem
 - Segurança e Governança
 - e Gerenciamento.
 
+A alta disponilidade se concentra em garantir a disponibilidade máxima, independentemente de interrupçõe ou eventos que possam ocorrer.
