@@ -13,3 +13,14 @@ SaaS - Software com Serviço
 + Os Usuários se conectam e usam aplicativos com base em nuvem pela internet : por exemplo o Microsoft Office 365, e-mail e calendarios.
 
 MODELO DE SERVIÇOS COMPARTILHADOS
+No IaaS 
+- Serviço de nuvem mais flexível;
+- Você configura e gerencia o hardware para o seu aplicativo;
+
+No PaaS
+- Focado no desenvolvimento de aplicativo;
+- O gerenciamento de plataforma é realizado pelo provedor de nuvem.
+
+  No SaaS
+  - Modelo de preço de pagamento conforme o uso;
+  - Os usuários pagam pelo software que utilizam em um modelo de assinatura.
