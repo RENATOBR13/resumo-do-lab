@@ -11,3 +11,5 @@ PaaS - Plataforma como Serviço
 
 SaaS - Software com Serviço
 + Os Usuários se conectam e usam aplicativos com base em nuvem pela internet : por exemplo o Microsoft Office 365, e-mail e calendarios.
+
+MODELO DE SERVIÇOS COMPARTILHADOS
