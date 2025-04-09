@@ -15,3 +15,8 @@ Objetivos da aula :
 - Descrever a Finalidade do Microsoft Defender para Nuvem.
 
 MICROSOFT ENTRA ID - é o serviço de gerenciamento de identidades e acesso baseado em nuvem do Microsoft Azure.
++ Autenticação (os funcionários entram para acessar os recursos);
++ Logon único (SSO);
++ Gerenciamento de aplicativos;
++ Negócios para negócios(B2B);
++ Gerenciamento de dispositivos.
