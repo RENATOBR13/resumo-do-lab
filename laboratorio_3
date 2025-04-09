@@ -5,5 +5,8 @@ IDENTIDADE, ACESSO E SEGURANÇA:
 * Modelos de segurança
 
 Objetivos da aula :
-- Descrever os serviços de diretório no Azure, incluindo o Microsoft Entra ID e o Microsoft entra Domain Services.
-- Descrever métodos de autenticação no Azure, incluindo SSO(logon único), MFA(autenticação multifator) e com senha.
+- Descrever os serviços de diretório no Azure, incluindo o Microsoft Entra ID e o Microsoft entra Domain Services;
+- Descrever métodos de autenticação no Azure, incluindo SSO(logon único), MFA(autenticação multifator) e com senha;
+- Descrever as identidades externas e o acesso de convidado do Azure;
+- Descrever o Acesso Condicional do Entra;
+- Descrever o Controle de Acesso baseado em Função (RBAC).
