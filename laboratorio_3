@@ -24,4 +24,46 @@ O que é MICROSOFT ENTRA ID ? - é o serviço de gerenciamento de identidades e 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 Vantagens de utilizar o Microsoft Entra Domain Services 
 - obtenha os benefícios dos serviços domínio baseados em nuvem sem gerenciar os controladores de domínio;
+- execute aplicativos herdados (que não podem utilizar os padrões de autenticação modernos) na nuvem.
+- sincronizar automaticamente a partir do Microsoft Entra ID.
+
+COMPARAR A AUTENTICAÇÃO E A AUTORIZAÇÃO
+
+Autenticação:
+* Identifica a pessoa ou serviço, buscando acesso a um recurso;
+* Solicita credenciais de acesso legítimo;
+* Base para criar princípios de identidade e controle de acessos seguros.
+
+Autorização:
+* Determina o nível de acesso de uma pessoa ou serviço autenticado;
+* Define quais dados eles podem acessar e o que podem fazer com eles.
+
+AUTENTICAÇÃO MULTIFATOR(MFA)
+*  Fornece segurança adicional para as identidades, exigindo dois ou mais elementos para autenticação completa.
+
+ACESSO CONDICIONAL
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
